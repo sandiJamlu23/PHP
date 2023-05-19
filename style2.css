@@ -1,0 +1,13 @@
+h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.container {
+  width: 300px;
+  padding-top: 20px;
+  background-color: moccasin;
+  text-align: center;
+  padding-bottom: 50px;
+  margin: auto;
+}
